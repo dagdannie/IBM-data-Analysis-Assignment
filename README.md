@@ -31,9 +31,9 @@ For the chosen year provide,
 NOTE: You have worked created the same dashboard components in Flight Delay Time Statistics Dashboard section. We will be reusing the same.
 
 # REQUIREMENTS TO CREATE THE EXPECTED RESULTS
-Two dropdown menus: For choosing report type and year
-Each dropdown will be designed as follows:
-An outer division with two inner divisions (as shown in the expected layout)
-One of the inner divisions will have information about the dropdown and the other one is dropdown.
-Layout for adding graphs.
-Callback function to compute data, create graph and return to the layout.
+1. Two dropdown menus: For choosing report type and year
+2. Each dropdown will be designed as follows:
+* An outer division with two inner divisions (as shown in the expected layout)
+* One of the inner divisions will have information about the dropdown and the other one is dropdown.
+3. Layout for adding graphs.
+4. Callback function to compute data, create graph and return to the layout.
