@@ -47,5 +47,5 @@ NOTE: You have worked created the same dashboard components in Flight Delay Time
 
 ![Dashboard2](https://github.com/dannieRope/IBM-data-Analysis-Assignment/assets/132214828/df745777-8e04-486f-8136-41b659a7f914)
 
-check [code here](Data_visualization_with_Python.py)
+check [code here](https://github.com/dannieRope/IBM-data-Analysis-Assignment/blob/main/Data_Visualization_with_Python.py)
 
