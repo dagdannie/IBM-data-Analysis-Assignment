@@ -40,3 +40,8 @@ NOTE: You have worked created the same dashboard components in Flight Delay Time
 
 ## FINAL RESULTS
 
+![Dash](https://github.com/dannieRope/IBM-data-Analysis-Assignment/assets/132214828/695eb5e1-3cef-4bdf-813a-93ec5c9b00a8)
+
+
+
+
