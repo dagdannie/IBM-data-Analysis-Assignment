@@ -7,7 +7,7 @@ Yearly airline performance report
 Yearly average flight delay statistics
 NOTE: Year range is between 2005 and 2020.
 
-# COMPONENTS OF THE REPORTS ITEMS
+## COMPONENTS OF THE REPORTS ITEMS
 *Yearly airline performance report*
 
 For the chosen year provide,
@@ -30,10 +30,13 @@ For the chosen year provide,
 5. Monthly average late aircraft delay by reporting airline for the given year.
 NOTE: You have worked created the same dashboard components in Flight Delay Time Statistics Dashboard section. We will be reusing the same.
 
-# REQUIREMENTS TO CREATE THE EXPECTED RESULTS
+## REQUIREMENTS TO CREATE THE EXPECTED RESULTS
 1. Two dropdown menus: For choosing report type and year
 2. Each dropdown will be designed as follows:
 * An outer division with two inner divisions (as shown in the expected layout)
 * One of the inner divisions will have information about the dropdown and the other one is dropdown.
 3. Layout for adding graphs.
 4. Callback function to compute data, create graph and return to the layout.
+
+## FINAL RESULTS
+
